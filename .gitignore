@@ -1,0 +1,7 @@
+slides/
+__pycache_/
+sim_data/
+notes/
+*npy
+*DS_Store
+*pyc
